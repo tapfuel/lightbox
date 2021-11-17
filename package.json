@@ -1,0 +1,31 @@
+{
+  "name": "@tapfuel/sleightbox",
+  "version": "0.8.0",
+  "description": "A responsive lightbox jQuery plugin with declarative media breakpoint configuration, scrollable content panes, and exposed methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapfuel/sleightbox.git"
+  },
+  "keywords": [
+    "js",
+    "jquery",
+    "jquery-plugin",
+    "foss",
+    "open-source",
+    "lightbox",
+    "responsive"
+  ],
+  "author": "Zachary K. Watkins <zwatkins.it@gmail.com> (https://github.com/tapfuel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapfuel/sleightbox/issues"
+  },
+  "homepage": "https://github.com/tapfuel/sleightbox#readme",
+  "dependencies": {
+	  "jquery": "^1.11.0"
+  }
+}
